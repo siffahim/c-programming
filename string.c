@@ -5,9 +5,9 @@
 
 int main(){
     char s[10];
-    scanf("%s", &s);
+    scanf("%c", &s);
 
-    printf("%c\n", s[2]);
+    printf("%c\n", s);
     printf("%s\n", s);
 
     printf("%d", s[5]);

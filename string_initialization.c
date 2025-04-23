@@ -3,7 +3,7 @@
 int main(){
 
     //char s[6] = {'F', 'A', 'H', 'I', 'M'};
-    char s[20] = "Saiful Islam Fahim";
+    char s[6] = "Fahim";
 
     printf("%s", s);
 
