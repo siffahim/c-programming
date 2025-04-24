@@ -10,6 +10,8 @@ int main(){
         a[i] = b[i];
     }
 
+    // strcpy(a,b);
+
     printf("%s %s", a, b);
 
     return 0;
